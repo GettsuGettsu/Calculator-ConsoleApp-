@@ -1,0 +1,8 @@
+C:\Users\Developer\VS2022\C# lessons\Homeworks\Calculator (ConsoleApp)\bin\Debug\Calculator (ConsoleApp).exe.config
+C:\Users\Developer\VS2022\C# lessons\Homeworks\Calculator (ConsoleApp)\bin\Debug\Calculator (ConsoleApp).exe
+C:\Users\Developer\VS2022\C# lessons\Homeworks\Calculator (ConsoleApp)\bin\Debug\Calculator (ConsoleApp).pdb
+C:\Users\Developer\VS2022\C# lessons\Homeworks\Calculator (ConsoleApp)\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\Developer\VS2022\C# lessons\Homeworks\Calculator (ConsoleApp)\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Developer\VS2022\C# lessons\Homeworks\Calculator (ConsoleApp)\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Developer\VS2022\C# lessons\Homeworks\Calculator (ConsoleApp)\obj\Debug\Calculator (ConsoleApp).exe
+C:\Users\Developer\VS2022\C# lessons\Homeworks\Calculator (ConsoleApp)\obj\Debug\Calculator (ConsoleApp).pdb
